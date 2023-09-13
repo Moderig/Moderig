@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hello, I'm Nima </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=25&duration=4000&pause=1250&color=F73D64&center=true&vCenter=true&width=600&lines=Engineering+efficient+and+scalable+back-end+solutions+%F0%9F%92%BB;Crafting+immersive+virtual+worlds+%F0%9F%8E%AE;Exploring+the+limitless+potential+of+AI%2FML+%F0%9F%A4%96)](https://git.io/typing-svg)
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3](https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=25&duration=4000&pause=1250&color=F73D64&center=true&vCenter=true&width=600&lines=Engineering+efficient+and+scalable+back-end+solutions+%F0%9F%92%BB;Crafting+immersive+virtual+worlds+%F0%9F%8E%AE;Exploring+the+limitless+potential+of+AI%2FML+%F0%9F%A4%96)](https://git.io/typing-svg)"></a>
 </p>
 
 
