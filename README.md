@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=25&duration=4000&pause=1250&color=F73D64&center=true&vCenter=true&width=600&lines=Engineering+efficient+and+scalable+back-end+solutions+%F0%9F%92%BB;Crafting+immersive+virtual+worlds+%F0%9F%8E%AE;Exploring+the+limitless+potential+of+AI%2FML+%F0%9F%A4%96"></a>
 </p>
-<br>
 
 
 
