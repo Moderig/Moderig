@@ -13,11 +13,9 @@
 
 <br>
 
-- Welcome to my GitHub page! My name is Nima Fallah, and I am a computer scientist committed to learning back-end development, game development, and AI/ML!
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Welcome to my GitHub page! My name is Nima Fallah, and I am a computer scientist committed to mastering back-end development, game creation, and AI/ML.
+- Pursuing a B.S. in Computer Science at Rutgers University.
+- Always looking to learn new technologies and apply them through practical opportunities and personal projects.
 
 <br><br>
 
