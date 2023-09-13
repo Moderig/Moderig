@@ -13,7 +13,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Welcome to my GitHub page! My name is Nima Fallah, and I am computer scientist committed to learning back-end development, game development, and AI/ML!
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
