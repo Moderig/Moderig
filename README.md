@@ -74,8 +74,8 @@
 <div align="center">
 
 <a href="https://github.com/nfallah/">
-  <img src="https://github-readme-stats.vercel.app/api?username=nfallah&show_icons=true&theme=synthwave&height=500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfallah&langs_count=8&theme=synthwave&height=500"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=nfallah&show_icons=true&theme=synthwave"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfallah&langs_count=8&theme=synthwave"/>
 
 </a>
 </div>
