@@ -15,7 +15,7 @@
 - Currently pursuing a B.S. in Computer Science at Rutgers University.
 - Always looking to learn new technologies and apply them through practical opportunities and personal projects!
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
