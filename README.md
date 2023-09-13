@@ -10,7 +10,6 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
 - Welcome to my GitHub page! I am an undergraduate committed to learning back-end development, game creation, and AI/ML.
 - Currently pursuing a B.S. in Computer Science at Rutgers University.
