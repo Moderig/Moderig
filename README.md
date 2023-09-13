@@ -13,9 +13,9 @@
 
 <br>
 
-- Welcome to my GitHub page! My name is Nima Fallah, and I am a computer scientist committed to mastering back-end development, game creation, and AI/ML.
-- Pursuing a B.S. in Computer Science at Rutgers University.
-- Always looking to learn new technologies and apply them through practical opportunities and personal projects.
+- Welcome to my GitHub page! My name is Nima Fallah, and I am an undergraduate committed to learning back-end development, game creation, and AI/ML.
+- Currently pursuing a B.S. in Computer Science at Rutgers University.
+- Always looking to learn new technologies and apply them through practical opportunities and personal projects!
 
 <br><br>
 
